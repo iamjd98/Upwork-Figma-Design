@@ -53,6 +53,14 @@ font-size: 16px;
 line-height: 19px;
 }
 
+#profile-pic-con:hover {
+    cursor: pointer;
+}
+
+.name:hover {
+    cursor: pointer;
+}
+
 .searchbar-con {
 position: absolute;
 height: 44px;
@@ -64,6 +72,13 @@ top: 117px;
     width: 94%;
 }
 
+#search-icon:hover {
+    cursor: pointer;
+}
+
+#filter-icon:hover {
+    cursor: pointer;
+}
 
 #btncon {
     margin-top: 200px;
